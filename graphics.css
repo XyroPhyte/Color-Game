@@ -64,6 +64,11 @@ button {
     outline: none;
 }
 
+button:hover{
+    color: white;
+    background: steelblue;
+}
+
 #message{
     display: inline-block;
     width: 20%;
